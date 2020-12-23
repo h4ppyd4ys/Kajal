@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 +	Business Process driven sandbox development – using business process to plan sandbox roadmap and facilitate expedited development cycles. 
 +	Business Deployment – Designing services to support the customer during Production Deployment rollout including Business Continuity Planning, defining detailed execution plans that incorporate migration activities. Set up and execution of deployment control functions to ensure an effective and structured deployment experience. Post deployment stabilization support
 +	Business Parameters/Configuration –Data capture & Implementation support to configure the business capabilities on BSS products
-+   End to end process focused requirements management quality assurance.
-+   Statement of Work quality assurance
++ End to end process focused requirements management quality assurance.
++ Statement of Work quality assurance
 +	Subject Matter Expert for CRM, Billing, Inventory & Ordering products at all phases of the project lifecycle
 

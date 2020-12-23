@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "index"
 author: "Kajal"
 date: "23/12/2020"
 output: html_document

@@ -3,3 +3,11 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 logo: /images/FlowerOfLife.png
 avatar: /images/FlowerOfLife.png
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: kajal06@gmail.com
+  facebook:
+  flickr:
+  github: h4ppyd4ys

@@ -1,8 +1,7 @@
 ---
-layout: default
-author: "Kajal"
-date: "23/12/2020"
-output: html_document
+title: "Trust the Experience"
+layout: page
+permalink: /cv/
 ---
 
 ```{r setup, include=FALSE}

@@ -4,10 +4,6 @@ layout: default
 permalink: /cv/
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ##  **PROFILE**
  
 +	OVER 20 YEARS INTERNATIONAL TELECOMS EXPERIENCE, WORKING WITH TIER 1 INDUSTRY LEADERS.

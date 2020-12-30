@@ -1,6 +1,6 @@
 ---
 title: "Trust the Experience"
-layout: page
+layout: default
 permalink: /cv/
 ---
 

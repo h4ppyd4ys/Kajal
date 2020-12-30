@@ -1,14 +1,17 @@
 ---
+title: "About"
 layout: page
-title: About
 permalink: /about/
 ---
 
 Trying Something New
 
-### More Information
+### Unity is Strength, Diversity is Balance, Freedom is Love
 
-yes yes...coming soon
+Transparency
+Accountability
+Quality
+Traceability
 
 ### Contact me
 

@@ -1,6 +1,7 @@
 name: Kajal Patel Independent Transformation Consultant
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: jekyll-theme-hydejack
 logo: /images/FlowerOfLife.png
 avatar: /images/FlowerOfLife.png
 

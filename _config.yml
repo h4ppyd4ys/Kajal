@@ -17,7 +17,15 @@ title:                 Kajal Patel
 description:           >
   Unity Is Strength, Diversity Is Balance, Freedom Is Love
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+##tagline:               Change `tagline` in `_config.yml`
+
+# This should be the same author as first entry in `_data/authors.yml`.
+author:
+  # Used by `jekyll-feed`:
+  name:                <Kajal> <Patel>
+  email:               <kajal06@gmail.com>
+  # # Used by `jekyll-seo-tag`:
+  # twitter:             <username>
   
 # Add links to the sidebar.
 menu:

@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Kajal Patel"
 layout: page
 permalink: /home/
 ---

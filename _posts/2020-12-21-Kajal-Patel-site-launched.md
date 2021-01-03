@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Kajal Trying Something New"
-date: 2020-12-21
+title: My first Blog
+sitemap: false
 ---
 
 Powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 

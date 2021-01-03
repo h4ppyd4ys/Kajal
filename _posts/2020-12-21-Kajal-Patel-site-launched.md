@@ -1,6 +1,9 @@
 ---
-layout: blog
+layout: post
 title: My first Blog
+image: /images/FlowerOfLife.png
+description: >
+  Trying somthing New
 sitemap: false
 permalink: /blog/
 ---

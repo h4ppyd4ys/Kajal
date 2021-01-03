@@ -2,6 +2,7 @@
 title: "Kajal Patel"
 layout: page
 permalink: /home/
+cover:  true 
 ---
 
 #  **Independent Transformation Consulting**

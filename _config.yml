@@ -17,7 +17,7 @@ title:                 Kajal Patel
 description:           >
   Unity Is Strength, Diversity Is Balance, Freedom Is Love
 # A shorter description for the sidebar.
-##tagline:               Change `tagline` in `_config.yml`
+##tagline:
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -37,6 +37,11 @@ menu:
     url:               /cv/
   - title:             Blog
     url:               /blog/
+    
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright:             © 2020. All rights reserved.
+
+
 
 #
 # !! You don't need to change any of the configuration flags below !!

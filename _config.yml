@@ -5,13 +5,19 @@ remote_theme: hydecorp/hydejack@v9.0.5
 logo: /images/FlowerOfLife.png
 avatar: /images/FlowerOfLife.png
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: kajal06@gmail.com
-  facebook:
-  flickr:
-  github: h4ppyd4ys
+# Language of your content in 2-letter code, e.g.: en, de.
+# You may also provide a location, e.g.: en-us, de_AT.
+lang:                  en
+
+# The title of your blog. Used in the sidebar and the browser tab.
+title:                 Kajal Patel
+
+# A short description (~150 chars) of the page used for the meta description tag.
+# Can use markdown, but no more than one paragraph (enforced by `>`)
+description:           >
+  Unity Is Strength, Diversity Is Balance, Freedom Is Love
+# A shorter description for the sidebar.
+tagline:               Change `tagline` in `_config.yml`
   
 # Add links to the sidebar.
 menu:

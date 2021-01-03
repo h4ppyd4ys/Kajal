@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: My first Blog
 sitemap: false
 permalink: /blog/

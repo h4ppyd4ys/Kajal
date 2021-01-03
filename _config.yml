@@ -42,47 +42,27 @@ menu:
 copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+permalink:             /blog/:categories/:year-:month-:day-:title/
+
+# Pagination configuration (used by the `blog` layout)
+paginate:              10
+paginate_path:         /blog/:num/
 
 # Collections
 # ----------------------------------------------------------------------------------------
 
 collections:
   featured_categories:
-    permalink:         /:name/
+    permalink:         /blog/:name/
     output:            true
 
-  featured_tags:
-    permalink:         /tag-:name/
-    output:            true
+##  featured_tags:
+##    permalink:         /tag-:name/
+##    output:            true
 
-  projects:
-    permalink:         /projects/:path/
-    output:            true
-    
-  # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
-  # but we want them to be `WebPage`s:
-  - scope:
-      type:            projects
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_categories
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_tags
-    values:
-      seo:
-        type:          WebPage
-
-kramdown:
-  math_engine:         katex
-  math_engine_opts:    {}
-  footnote_backlink:   '&#x21a9;&#xfe0e;'
-
+##  projects:
+##    permalink:         /showcase/:path/
+##    output:            true
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -113,8 +93,6 @@ gems:
   - jekyll-paginate
   
 
-paginate:      10
-paginate_path: /blog/:num/ #!!
 
 # Exclude these files from your production _site
 exclude:

@@ -3,7 +3,7 @@ layout: post
 title: My first Blog
 description: >
   Trying something new
-image: /assets/img/blog/FOL530.png
+image: /assets/img/blog/FOL265.png
 sitemap: false
 ---
 

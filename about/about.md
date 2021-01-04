@@ -9,7 +9,7 @@ permalink: /about/
 <img src="/assets/img/docs/namaste.jpg" width="100">
 ###  Independent Transformation Consulting
 
-<div class=text-justify>
+
 Hi, I’m Kajal  
 Welcome to my first blogging space 😊  
 
@@ -22,4 +22,4 @@ Since we are so much more than the sum of our professional skills i thought i'd 
 Time is precious and one of the greatest gifts we can offer to one another, so much appreciated if you've stayed with me till here. Look forward to exchanging thought vibrations in this space.
 
 May the force be with you.
-</div>
+

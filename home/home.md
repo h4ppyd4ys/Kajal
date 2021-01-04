@@ -16,7 +16,7 @@ permalink: /home/
 +   Quality
 +   Traceability
 
-## *I choose to be part of the solution*  
+## *I choose to be part of the solution.*  
 
 ### Contact me
 

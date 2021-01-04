@@ -16,15 +16,15 @@ permalink: /cv/
 
 ##  **AREAS OF EXPERTISE**
  
-+	Design and Delivery of Key Business Transformation Consulting Practice Services
-+	Business Readiness – Design and Delivery of services to support the customer in identifying operational business impacts of target state solution and ensuring readiness activities are owned and implemented. A critical feed into go/no-go assessment criteria to ensure impacted business stakeholders are ready to transition to the new landscape.
-+	Business Process Management & Optimization– Design and delivery of a blueprint methodology and accompanying library of re-usable e-TOM compliant processes aligned to the full BSS suite of applications. The process focused blueprint approach significantly expedited key waterfall/agile analysis, design and testing phases. Extensive experience of Business processes optimization analysis to identifying improvement opportunities.
-+	Business Process driven sandbox development – using business process to plan sandbox roadmap and facilitate expedited development cycles. 
-+	Business Deployment – Designing services to support the customer during Production Deployment rollout including Business Continuity Planning, defining detailed execution plans that incorporate migration activities. Set up and execution of deployment control functions to ensure an effective and structured deployment experience. Post deployment stabilization support
-+	Business parameters/configuration –Data capture & Implementation support to configure the business capabilities on BSS products
-+   End to end process focused requirements management quality assurance.
-+   Statement of work contribution and quality assurance review
-+	Subject matter expert for CRM, Billing, Inventory & Ordering products at all phases of the project lifecycle
++	Design and Delivery of **Key Business Transformation Consulting Practice Services**
++	**Business Readiness** – Design and Delivery of services to support the customer in identifying operational impacts of target state solution and ensuring readiness activities are owned and implemented. A critical feed into go/no-go assessment criteria to ensure impacted business stakeholders are ready to transition to the new landscape.
++	**Business Process Management & Optimization**– Design and delivery of a blueprint methodology and accompanying library of re-usable e-TOM compliant processes aligned to the full BSS suite of applications. The process focused blueprint approach significantly expedited key waterfall/agile analysis, design and testing phases. Extensive experience of Business processes optimization analysis to identifying improvement opportunities.
++	**Business Process driven sandbox development** – using business process to plan sandbox roadmap and facilitate expedited development cycles. 
++	**Business Deployment** – Designing services to support the customer during Production Deployment rollout including Business Continuity Planning, defining detailed execution plans that incorporate migration activities. Set up and execution of deployment control functions to ensure an effective and structured deployment experience. Post deployment stabilization support
++	**Business parameters/configuration** –Data capture & Implementation support to configure the business capabilities on BSS products
++   End to end process focused **requirements management** quality assurance.
++   **Statement of work** contribution and **quality assurance** review
++	Subject matter expert for **CRM, Billing, PLM, Inventory & Ordering** products at all phases of the project lifecycle
 
 ##  **TOOLS**
 
@@ -47,13 +47,13 @@ permalink: /cv/
 
 ##  **QUALIFICATIONS**
 
-Nov 2020 Coursera AWS Fundamentals
+Nov 2020 Coursera AWS Fundamentals  
 <img src="/assets/img/docs/AWSFund.jpg" width="200">
 
-Dec 2020 Coursera Data Science Foundations Using R
-<img src="/assets/img/docs/DSFoundation.jpg" width="200">
+Dec 2020 Coursera Data Science Foundations Using R  
+<img src="/assets/img/docs/DSFoundation.png" width="200">
 
-OCT 2019 TEFL CERTIFICATION
+OCT 2019 TEFL CERTIFICATION   
 <img src="/assets/img/docs/tefl.jpg" width="200">
 
 Post Graduate Diploma Information Systems &Technology (2000-2002) – City University -Distinction

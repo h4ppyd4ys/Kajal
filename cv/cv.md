@@ -48,13 +48,13 @@ permalink: /cv/
 ##  **QUALIFICATIONS**
 
 Nov 2020 Coursera AWS Fundamentals  
-<img src="/assets/img/docs/AWSFund.jpg" width="200">
+<img src="/assets/img/docs/AWSFund.jpg" width="500">
 
 Dec 2020 Coursera Data Science Foundations Using R  
-<img src="/assets/img/docs/DSFoundation.png" width="200">
+<img src="/assets/img/docs/DSFoundation.png" width="500">
 
 OCT 2019 TEFL CERTIFICATION   
-<img src="/assets/img/docs/tefl.jpg" width="200">
+<img src="/assets/img/docs/tefl.jpg" width="500">
 
 Post Graduate Diploma Information Systems &Technology (2000-2002) – City University -Distinction
 

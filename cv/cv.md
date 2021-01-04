@@ -57,3 +57,5 @@ OCT 2019 TEFL CERTIFICATION
 <img src="/assets/img/docs/tefl.jpg" width="200">
 
 Post Graduate Diploma Information Systems &Technology (2000-2002) – City University -Distinction
+
+**Detailed CV available on request**.

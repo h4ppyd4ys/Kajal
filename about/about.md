@@ -1,12 +1,12 @@
 ---
 title: "About"
-image:
-  path:    /assets/img/docs/namaste.jpg
 layout: page
 permalink: /about/
 ---
 
 ### Unity is Strength, Diversity is Balance, Freedom is Love  
+
+![namaste](/assets/img/docs/namaste.jpg)
 
 ###  Independent Transformation Consulting
 Transparency

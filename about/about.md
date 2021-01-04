@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Unity is Strength, Diversity is Balance, Freedom is Love  
 
-![namaste](/assets/img/docs/namaste.jpg = 50x)
+![namaste](/assets/img/docs/namaste.jpg = 75x)
 
 ###  Independent Transformation Consulting
 Transparency

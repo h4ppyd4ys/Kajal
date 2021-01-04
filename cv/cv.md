@@ -48,10 +48,10 @@ permalink: /cv/
 ##  **QUALIFICATIONS**
 
 Nov 2020 Coursera AWS Fundamentals  
-<img src="/assets/img/docs/AWSFund.jpg" width="300">
+<img src="/assets/img/docs/AWSFund.jpg">
 
 Dec 2020 Coursera Data Science Foundations Using R  
-<img src="/assets/img/docs/DSFound.jpg" width="300">
+<img src="/assets/img/docs/DSFound.jpg">
 
 OCT 2019 TEFL CERTIFICATION   
 <img src="/assets/img/docs/tefl.jpg" width="500">

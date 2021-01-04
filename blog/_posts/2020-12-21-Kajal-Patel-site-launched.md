@@ -3,7 +3,12 @@ layout: post
 title: My first Blog
 description: >
   Trying something new
-image: /assets/img/blog/FOL265.png
+image: 
+  path: /assets/img/blog/FOLmedium.png
+  srcset:
+    1060w: /assets/img/blog/FOLlarge.png
+    530w:  /assets/img/blog/FOLmedium.png
+    265w:  /assets/img/blog/FOLsmall.png
 sitemap: false
 ---
 

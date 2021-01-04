@@ -4,16 +4,17 @@ layout: page
 permalink: /home/
 ---
 
-Trying Something New
+# Unity is Strength, Diversity is Balance, Freedom is Love  
 
-### Unity is Strength, Diversity is Balance, Freedom is Love
+<img src="/assets/img/docs/namaste.jpg" width="100">
+#  Independent Transformation Consulting
 
-### Independent Transformation Consulting
+##  Building bridges between vendors, IT & Business
 
-Transparency
-Accountability
-Quality
-Traceability
++   Transparency
++   Accountability
++   Quality
++   Traceability
 
 ### Contact me
 

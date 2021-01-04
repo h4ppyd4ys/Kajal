@@ -10,7 +10,7 @@ permalink: /about/
 ###  Independent Transformation Consulting
 
 
-Hi, I’m Kajal  
+Namaste, I’m Kajal  
 Welcome to my first blogging space 😊  
 
 I’ve happily spent most of my professional career traversing the globe for the telecommunications industry. Learning  and experiencing the new continues to be my motivation. I also believe that sharing is caring, so if you are seeking  *truly independent* transformation consulting services that advocate transparency, accountability, quality and traceability head over to my CV, where I have quite honestly described my areas of expertise and please feel free to contact me if I can be of assistance. In the age of fake news I understand if you would like some credible witnesses to verify this experience. These will gladly be provided upon request.  

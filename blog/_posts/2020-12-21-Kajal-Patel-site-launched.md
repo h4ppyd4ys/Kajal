@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My first Blog
-image: /assets/img/blog/FOL530.jpg
 description: >
   Trying something new
+image: /assets/img/blog/FOL530.png
 sitemap: false
 ---
 

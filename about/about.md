@@ -4,9 +4,9 @@ layout: page
 permalink: /about/
 ---
 
-Trying Something New
-
 ### Unity is Strength, Diversity is Balance, Freedom is Love
+
+![namaste](/assets/img/blog/namaste.jpg){:.lead width="800" height="100" loading="lazy"}
 
 Transparency
 Accountability

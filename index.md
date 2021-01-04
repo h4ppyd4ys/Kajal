@@ -1,7 +1,6 @@
 ---
 title: "Kajal Patel"
 layout: page
-permalink: index
 cover:  true 
 ---
 

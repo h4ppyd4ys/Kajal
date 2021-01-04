@@ -4,7 +4,7 @@ layout: page
 permalink: /home/
 ---
 
-# Unity is Strength, Diversity is Balance, Freedom is Love  
+#  Unity Is Strength, Diversity Is Balance, Freedom Is Love  
 
 <img src="/assets/img/docs/namaste.jpg" width="100">
 #  Independent Transformation Consulting
@@ -15,6 +15,8 @@ permalink: /home/
 +   Accountability
 +   Quality
 +   Traceability
+
+## *I choose to be part of the solution*  
 
 ### Contact me
 

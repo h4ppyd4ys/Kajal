@@ -8,13 +8,13 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Unity is Strength, Diversity is Balance, Freedom is Love
+    Unity is Strength, Diversity is Balance, Freedom is Love   |
     Independent Transformation Consultant:
     Transparency Accountability Quality Traceability
     
   # This photo will be used in the about section
-  ##picture:
-  ##  path:            https://placehold.it/128x128
+  picture:
+    path:            /assets/img/blog/kajalprofile_small.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128

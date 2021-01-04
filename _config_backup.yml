@@ -1,0 +1,105 @@
+name: Kajal Patel Independent Transformation Consultant
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+remote_theme: hydecorp/hydejack@v9.0.5
+logo: /images/FlowerOfLife.png
+avatar: /images/FlowerOfLife.png
+
+# Language of your content in 2-letter code, e.g.: en, de.
+# You may also provide a location, e.g.: en-us, de_AT.
+lang:                  en
+
+# The title of your blog. Used in the sidebar and the browser tab.
+title:                 Kajal Patel
+
+# A short description (~150 chars) of the page used for the meta description tag.
+# Can use markdown, but no more than one paragraph (enforced by `>`)
+description:           >
+  Unity Is Strength, Diversity Is Balance, Freedom Is Love
+# A shorter description for the sidebar.
+##tagline:
+
+# This should be the same author as first entry in `_data/authors.yml`.
+author:
+  # Used by `jekyll-feed`:
+  name:                <Kajal> <Patel>
+  email:               <kajal06@gmail.com>
+  # # Used by `jekyll-seo-tag`:
+  # twitter:             <username>
+  
+# Add links to the sidebar.
+menu:
+  - title:             Home
+    url:               /home/
+  - title:             About
+    url:               /about/
+  - title:             CV
+    url:               /cv/
+  - title:             Blog
+    url:               /blog/
+    
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright:             © 2020. All rights reserved.
+
+# Format of the permalinks
+permalink: /blog/:year/:month/:day/:title
+
+# Pagination configuration (used by the `blog` layout)
+paginate:              10
+paginate_path:         /blog/:num/
+
+# Collections
+# ----------------------------------------------------------------------------------------
+
+collections:
+  featured_categories:
+    permalink:         /blog/:name/
+    output:            true
+
+##  featured_tags:
+##    permalink:         /tag-:name/
+##    output:            true
+
+##  projects:
+##    permalink:         /showcase/:path/
+##    output:            true
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-include-cache
+  - jekyll-paginate
+  
+
+
+# Exclude these files from your production _site
+exclude:
+##  - Gemfile
+##  - Gemfile.lock
+##  - LICENSE
+##  - README.md
+##  - CNAME
+
+theme: jekyll-theme-leap-day

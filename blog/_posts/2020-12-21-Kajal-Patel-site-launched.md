@@ -2,7 +2,7 @@
 layout: post
 title: My first Blog
 image: 
-  path: /assets/img/blog/FOL_1060.jpg
+  path: /assets/img/blog/FOL_530.jpg
   srcset:
     1060w: /assets/img/blog/FOL_1060.jpg
     530w:  /assets/img/blog/FOL_530.jpg

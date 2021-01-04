@@ -4,12 +4,6 @@ layout: page
 permalink: /about/
 ---
 
-### Unity is Strength, Diversity is Balance, Freedom is Love  
-
-<img src="/assets/img/docs/namaste.jpg" width="100">
-###  Independent Transformation Consulting
-
-
 Namaste, I’m Kajal  
 Welcome to my first blogging space 😊  
 
@@ -22,4 +16,9 @@ Since we are so much more than the sum of our professional skills i thought i wo
 Time is precious and one of the greatest gifts we can offer to ourselves and one another, so much appreciated if you've stayed with me till here. Look forward to exchanging thought vibrations in this space.
 
 May the force be with you.
+
+### Unity is Strength, Diversity is Balance, Freedom is Love  
+
+<img src="/assets/img/docs/namaste.jpg" width="100">
+###  Independent Transformation Consulting
 

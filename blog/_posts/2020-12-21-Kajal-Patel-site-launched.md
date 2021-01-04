@@ -1,12 +1,7 @@
 ---
 layout: post
 title: My first Blog
-image: 
-  path: /assets/img/blog/FOL530.jpg
-  srcset:
-    1060w: /assets/img/blog/FOL1060.jpg
-    530w:  /assets/img/blog/FOL530.jpg
-    265w:  /assets/img/blog/FOL265.jpg
+image: /assets/img/blog/FOL530.jpg
 description: >
   Trying something new
 sitemap: false

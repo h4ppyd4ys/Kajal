@@ -13,7 +13,7 @@ Accountability
 Quality
 Traceability
 
-[Data Science](<img src="/assets/img/docs/namaste.jpg" width="100">)
+[Data Science](/assets/img/docs/namaste.jpg" width="100">)
 
 ### Contact me
 

@@ -23,7 +23,7 @@ Having been involuntarily and then voluntarily blitzed with COVID-19 pandemic an
 
 Since we are so much more than the sum of our professional skills i thought i'd use the blogging space to share my experiences with quite possibly the best purchasing decision I ever made, my campervan flo (*who is presently meditating it out, in Tier 4 London lockdown*) along with the realization of a lifelong fascination with the night sky in the form of astrophotography (*presently going through a steep but enjoyable learning curve and patiently waiting for clear skies*).  
 
-Time and awareness are the most precious gifts we can offer to one another so much appreciated if you have got this far. Look forward to exchanging thought vibrations in this space.
+Time is precious and one of the greatest gifts we can offer to one another, so much appreciated if you've stayed with me till here. Look forward to exchanging thought vibrations in this space.
 
 May the force be with you.
 
